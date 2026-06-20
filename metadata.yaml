@@ -1,6 +1,6 @@
 name: astrbot_plugin_lili_state
 description: 角色状态管理 - 维护好感度/淫乱度/情绪等跨轮持久化数值。支持思考过程引导、对话历史解析、人设模板填充。注入到 req.prompt 头部，不干扰 DeepSeek 等提供商的前缀缓存。
 author: mcxxiu
-version: 1.5.0
+version: 2.0.0
 display_name: 角色状态管理
-repo: 
+repo: https://github.com/mcxxiu/lily
